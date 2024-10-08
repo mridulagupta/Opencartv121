@@ -1,0 +1,2 @@
+cd E:\Mridula\Udemy\Pavan Kumar Notes\SeleniumWebdriverPrograms\Opencartv121
+mvn test

@@ -1,0 +1,26 @@
+2024-10-08 16:09:30 INFO  TC_001_AccountRegistrationTest:17 - *******Starting TC_001_AccountRegistrationTest***** 
+2024-10-08 16:09:31 INFO  TC_001_AccountRegistrationTest:25 - Clicked on the account link
+2024-10-08 16:09:32 INFO  TC_001_AccountRegistrationTest:28 - Clicked on the register link
+2024-10-08 16:09:32 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2024-10-08 16:09:34 INFO  TC_001_AccountRegistrationTest:44 - Validating comfirmation message...
+2024-10-08 16:09:34 INFO  TC_001_AccountRegistrationTest:48 - Test Passed
+2024-10-08 16:09:34 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-08 16:09:43 INFO  TC_002_LoginTest:19 - *******Started TC002_LoginTest******
+2024-10-08 16:09:43 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-10-08 16:09:44 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-10-08 16:09:44 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-10-08 16:09:45 INFO  TC_002_LoginTest:36 - clicked on ligin button..
+2024-10-08 16:09:55 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
+2024-10-08 16:14:42 INFO  TC_001_AccountRegistrationTest:17 - *******Starting TC_001_AccountRegistrationTest***** 
+2024-10-08 16:14:43 INFO  TC_001_AccountRegistrationTest:25 - Clicked on the account link
+2024-10-08 16:14:44 INFO  TC_001_AccountRegistrationTest:28 - Clicked on the register link
+2024-10-08 16:14:44 INFO  TC_001_AccountRegistrationTest:32 - Providing customer details...
+2024-10-08 16:14:47 INFO  TC_001_AccountRegistrationTest:44 - Validating comfirmation message...
+2024-10-08 16:14:47 INFO  TC_001_AccountRegistrationTest:48 - Test Passed
+2024-10-08 16:14:47 INFO  TC_001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2024-10-08 16:14:53 INFO  TC_002_LoginTest:19 - *******Started TC002_LoginTest******
+2024-10-08 16:14:53 INFO  TC_002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-10-08 16:14:53 INFO  TC_002_LoginTest:27 - clicked on login link under myaccount..
+2024-10-08 16:14:53 INFO  TC_002_LoginTest:32 - Entering valid email and password..
+2024-10-08 16:14:55 INFO  TC_002_LoginTest:36 - clicked on ligin button..
+2024-10-08 16:15:05 INFO  TC_002_LoginTest:49 - **** Finished TC_002_LoginTest  ****
